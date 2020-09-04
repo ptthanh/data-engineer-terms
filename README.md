@@ -35,7 +35,8 @@ https://spark.apache.org/
 
 # 6. Machine Learning
 # Linear
-# Hiperlog: 
+# Hiperlog
+# K-Means
 
 
 # 7. Solid Knowledge of Operating Systems
